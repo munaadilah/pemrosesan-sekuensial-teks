@@ -1,1 +1,1 @@
-# pemrosesan-sekuensial-teks
+# pemrosesan-sekuensial1
